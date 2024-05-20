@@ -1,2 +1,5 @@
-# checkpoint-3-front-end-design
-checkpoint 3 para a matéria de front-end design
+# Projeto
+Repositório referente ao checkpoint 3 da matéria de Front-end Design, ministrada pelo professor Lucas Silva
+
+## Membros
+- Marcos Ferreira (RM 556228)

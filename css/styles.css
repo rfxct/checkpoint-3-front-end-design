@@ -1,0 +1,69 @@
+/* Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Body */
+body {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+/* Header */
+.header {
+  width: 980px;
+  height: 140px;
+
+  background-color: teal;
+}
+
+/* Main */
+.main {
+  display: flex;
+  height: 450px;
+
+  gap: 15px;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 270px;
+  background-color: green;
+}
+
+/* Content */
+.content {
+  width: 690px;
+  background-color: green;
+}
+
+/* Footer */
+.footer {
+  width: 980px;
+  height: 70px;
+  
+  background-color: cadetblue;
+}
+
+/* Text */
+.info {
+  color: white;
+  text-align: center;
+}
+
+.info .title {
+  font-weight: 700;
+  font-family: sans-serif;
+}
+
+.info > .size {
+  font-weight: 500;
+}
